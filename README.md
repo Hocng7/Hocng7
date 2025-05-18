@@ -2,6 +2,24 @@
 
 🎓 I'm a final-year Computer Science student at the **University of British Columbia**, passionate about building modern, user-focused digital experiences and pushing the boundaries of interactive technology.
 
+## 🛠️ Tools & Frameworks
+![](https://img.shields.io/badge/-React-indigo?logo=react&logoColor=white)
+![](https://img.shields.io/badge/-Next.js-indigo?logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/-Django-indigo?logo=django&logoColor=white)
+![](https://img.shields.io/badge/-PyTorch-indigo?logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/-Figma-indigo?logo=figma&logoColor=white)
+![](https://img.shields.io/badge/-Tableau-indigo?logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/-Plotly%20Dash-indigo?logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-indigo?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-SQL-indigo?logo=mysql&logoColor=white)
+
+### 🎮 Game Development
+![](https://img.shields.io/badge/-Unity-indigo?logo=unity&logoColor=white)
+![](https://img.shields.io/badge/-C%23-indigo?logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/-Visual%20Studio-indigo?logo=visual-studio&logoColor=white)
+
+
+
 ## 💻 Projects & Experience
 
 ### 🌐 Web Development
